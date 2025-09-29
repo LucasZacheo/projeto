@@ -43,8 +43,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 💻 Telas
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/darkmode-mobile.png" width="40%" height="400px">
-  <img alt="projeto DevLinks" src=".github/lightmode-mobile.png" width="40%" height = "400px">
+  <img alt="projeto DevLinks" src=".github/darkmode-mobile.png" width="40%" height="500px">
+  <img alt="projeto DevLinks" src=".github/lightmode-mobile.png" width="40%" height = "500px">
 </p>
 <p align="center">
   <img alt="projeto DevLinks" src=".github/darkmode-desktop.png" width="100%">
